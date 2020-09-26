@@ -1,0 +1,13 @@
+from sys import stdin
+
+def solve():
+    readline = stdin.readline
+    # n = int(input())
+    n,m = map(int, readline().split())
+    a = list(map(int, readline().split()))
+
+
+def main():
+    solve()
+
+main()
