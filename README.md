@@ -1,1 +1,4 @@
-# Python_Library
+# python_library
+
+pythonで競技プログラミングをする用のライブラリです。
+C++からの移植をしたのみで、Python用の特別な高速化などの処理はしていません。
