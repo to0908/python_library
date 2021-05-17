@@ -5,6 +5,9 @@ def solve():
     # n = int(input())
     n,m = map(int, readline().split())
     a = list(map(int, readline().split()))
+    
+    # short coding: int n and size n list    
+    n,*a=map(int,open(0).read().split())
 
 
 def main():
